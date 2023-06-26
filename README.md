@@ -241,7 +241,7 @@ instead of
 <strong>an example of a word in bold</strong> using HTML code
 
 
-## Tables (Not Always Supported)
+## Tables
 
 | Syntax | Description |
 | --- | --- |
