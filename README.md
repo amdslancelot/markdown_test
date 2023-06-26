@@ -244,11 +244,8 @@ instead of
 ## Tables (Not Always Supported)
 
 | Syntax | Description |
-
 | --- | --- |
-
 | Header | Title |
-
 | Paragraph | Text |
 
 ---
