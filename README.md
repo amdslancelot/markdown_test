@@ -45,7 +45,7 @@ Here *IsAn* Example
 ## Italics and Bold
 
 Here is an ***important section of text*** to consider
-
+Here is an ___important section of text___ to consider
 
 
 ## Highlighting
@@ -115,6 +115,16 @@ $$
 
 
 
+## Narrow Unordered Lists
+
+* item one
+
+* item two
+
+* item three
+
+
+
 ## Elements Within A List Other Elements Within A List
 
 - First list item
@@ -126,6 +136,7 @@ Here is a paragraph or line of text not part of the list
 - Third list item
 
 
+
 ## Blockquotes Within a List
 
 - First list item
@@ -135,6 +146,7 @@ Here is a paragraph or line of text not part of the list
 > Here is a blockquote
 
 - Third list item
+
 
 
 ## Nesting Ordered And Unordered Lists Together
@@ -150,6 +162,7 @@ Here is a paragraph or line of text not part of the list
 4. Fourth item
 
 
+
 ## Code blocks
 
      <html>
@@ -159,6 +172,7 @@ Here is a paragraph or line of text not part of the list
              <title>code block example</title>
 
      </html>
+
 
 
 ## Code Blocks 2
@@ -171,6 +185,8 @@ drwxr-xr-x. 28 root root 4096 Jun 26 18:12 ..
 drwxr-xr-x.  8 root root  185 Jun 26 18:14 .git
 -rw-r--r--.  1 root root 2855 Jun 26 18:34 README.md
 ```
+
+
 
 ## Denoting Code
 
