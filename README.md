@@ -46,7 +46,9 @@ Here *IsAn* Example
 
 Here is an ***important section of text*** to consider
 
+## Highlighting
 
+I need to highlight these ==very important words==.
 
 ## Blockquotes
 
