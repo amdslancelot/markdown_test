@@ -46,9 +46,24 @@ Here *IsAn* Example
 
 Here is an ***important section of text*** to consider
 
+
+
 ## Highlighting
 
 I need to highlight these ==very important words==.
+
+
+
+## Math
+
+$$
+y = Wx + b
+$$ 
+
+$$
+\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
+
 
 ## Blockquotes
 
